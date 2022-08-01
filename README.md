@@ -1,3 +1,3 @@
 # Talctech-backend
 
-## Download the zip file and extract it on your PC
+## Download the zip file in the public folder and extract it on your PC
